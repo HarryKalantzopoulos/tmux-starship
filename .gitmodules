@@ -1,0 +1,3 @@
+[submodule "catppucin.windows-terminal"]
+	path = catppucin.windows-terminal
+	url = https://github.com/catppuccin/windows-terminal
